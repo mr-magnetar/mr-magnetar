@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=40&duration=4500&pause=1000&center=true&vCenter=true&multiline=true&random=false&width=900&height=200&lines=The+five+boxing+wizards+jump+quickly;How+vexingly+quick+daft+zebras+jump)](https://git.io/typing-svg)
+<br>
+<br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mr-magnetar&theme=github-dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
