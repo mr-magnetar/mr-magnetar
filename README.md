@@ -15,11 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--<style>
-  p{
-    background-color: green;
-  }
-</style>-->
-
-<p style="color:blue;font-size:46px; align: right; ">Hello world <br/>hi
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=31&duration=4500&pause=1000&vCenter=true&multiline=true&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly;How+vexingly+quick+daft+zebras+jump)](https://git.io/typing-svg)
