@@ -15,12 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<style>
+<!--<style>
   p{
     background-color: green;
   }
-</style>
+</style>-->
 
-<p>Hello world <br/>
-hi
+<p>Hello world <br/>hi
 </p>
