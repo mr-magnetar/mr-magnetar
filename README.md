@@ -21,5 +21,5 @@ Here are some ideas to get you started:
   }
 </style>-->
 
-<p>Hello world <br/>hi
+<p style= "color:blue;font-size:46px;">Hello world <br/>hi
 </p>
