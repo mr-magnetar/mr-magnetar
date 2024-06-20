@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **mr-magnetar/mr-magnetar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=48&pause=1000&random=false&width=650&height=70&lines=Hello+I'm+Pranjal+Negi%2C;An+aspiring+Full-stack+Developer)](https://git.io/typing-svg)
-<br>
-<br>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=48&pause=1000&random=false&width=650&height=70&lines=Hello+I'm+Pranjal+Negi%2C;An+aspiring+Full-stack+Developer)
 
-<p align= "left">
-  <img src= 'https://github-readme-streak-stats.herokuapp.com?user=mr-magnetar&theme=github-dark&hide_border=true&exclude_days=Sun%2CSat' />
-</p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mr-magnetar&theme=github-dark&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
+
+
+[<img align="left" width="390" alt="🦑" src="https://readme-typing-svg.herokuapp.com?font=VT323&size=48&pause=1000&random=false&width=650&height=70&lines=Hello+I'm+Pranjal+Negi%2C;An+aspiring+Full-stack+Developer" />](#)
+[<img align="right" width="390" alt="🦑" src="https://github-readme-streak-stats.herokuapp.com?user=mr-magnetar&theme=github-dark&hide_border=true&exclude_days=Sun%2CSat" />](#)
+
