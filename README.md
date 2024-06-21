@@ -5,7 +5,7 @@
 
 ---
 <p align="center">
-<a href="#"><img align="center" width=390 height=200 alt="mr-magnetar's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mr-magnetar"/></a>
+<a href="#"><img align="center" width=390 height=200 alt="mr-magnetar's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mr-magnetar&show_icons=true&bg_color=00000000"/></a>
 <a href="#"><img align="center" width=390 height=200 alt="🦑" src="https://github-readme-streak-stats.herokuapp.com?user=mr-magnetar&theme=github-dark&hide_border=true&exclude_days=Sun%2CSat" /></a>
 </p>
 
